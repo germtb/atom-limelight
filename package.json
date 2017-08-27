@@ -1,0 +1,20 @@
+{
+	"name": "atom-limelight",
+	"main": "./lib/atom-limelight",
+	"version": "0.0.0",
+	"activationEvents": [],
+	"description": "Focus on what you are doing",
+	"scripts": {
+		"test": "mocha --reporter progress --compilers js:babel-core/register --recursive 'lib/**/*.test.js'"
+	},
+	"keywords": ["zen", "distraction-free", "focus"],
+	"repository": "https://github.com/germtb/atom-limelight",
+	"license": "MIT",
+	"engines": {
+		"atom": ">=1.0.0 <2.0.0"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"atom": "~1.0.0"
+	}
+}
