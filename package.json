@@ -1,7 +1,7 @@
 {
   "name": "atom-limelight",
   "main": "./lib/atom-limelight",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "activationEvents": [],
   "description": "Focus on what you are doing",
   "scripts": {
